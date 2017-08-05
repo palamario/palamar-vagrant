@@ -69,6 +69,5 @@ Vagrant.configure("2") do |config|
      apt-get update
      cd /vagrant
      pip install -r requirement.txt
-     bower install
   SHELL
 end
